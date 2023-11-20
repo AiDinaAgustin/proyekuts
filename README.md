@@ -1,3 +1,3 @@
-# proyekuts
+# Proyek UTS 
 
-A new Flutter project.
+Mata Kuliah Pemrograman Berbasis Mobile
