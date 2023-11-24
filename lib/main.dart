@@ -62,7 +62,8 @@ class _MyImageNavigationAppState extends State<MyImageNavigationApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Image Navigation App'),
+        centerTitle: true,
+        title: Text('Picture Navigation'),
       ),
       body: Center(
         child: Column(
